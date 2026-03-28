@@ -53,4 +53,4 @@ Never uses exact match (`location =`) — it fails on trailing slash mismatch.
 
 ---
 
-Built by [The GEO Lab](https://thegeolab.net) | [X](https://x.com/TheGEO_Lab)
+A project by [The GEO Lab](https://thegeolab.net) — Generative Engine Optimisation research

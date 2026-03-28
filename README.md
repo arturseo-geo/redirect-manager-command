@@ -1,5 +1,8 @@
 # /redirect — Claude Code Command
 
+> Built at [The GEO Lab](https://thegeolab.net) — where we manage 12+ Nginx redirects across a growing content architecture.
+
+
 Manage Nginx 301 redirects safely — add, list, verify, or remove.
 
 ## What it does
